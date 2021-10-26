@@ -2,7 +2,7 @@
 ## EFI及系统支持
 - OpenCore 0.7.4
 - MacOS Big Sur 11.6.1
-# 
+## 配置信息
 | Component  | Model |
 | ------------- | ------------- |
 | CPU  | i9 9980HK  |
