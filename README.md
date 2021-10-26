@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 | CPU  | i9 9980HK  |
 | Memory |  DDR4 2666MHZ |
-| Storage | sansumg PM961 |
+| Storage | samsung PM961 |
 | GPU | Intel UHD 630 |
 | Audio | ALC 298 |
 | wireless | Killer 1650X |
