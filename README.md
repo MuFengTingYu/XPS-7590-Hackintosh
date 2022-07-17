@@ -1,7 +1,7 @@
 # XPS-7590-Hackintosh
 ## EFI及系统支持
 - OpenCore 0.7.4
-- MacOS Big Sur 11.6.1 Monterey 12.1
+- MacOS Big Sur 11.6.1 Monterey 12.4
 ## 配置信息
 | Component  | Model |
 | ------------- | ------------- |
