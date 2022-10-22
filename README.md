@@ -12,7 +12,7 @@
 | GPU | Intel UHD 630 |
 | Audio | ALC 298 |
 | wireless | Killer 1650X |
-| GPU | 1650 |
+| GPU | 1650 disable|
 ## 工作情况
 - CPU：正常，支持变频，温度正常。
 - 核显：正常，支持HDMI 显存2048MB。
