@@ -7,11 +7,12 @@
 | ------------- | ------------- |
 | CPU  | i9 9980HK  |
 | monitor | 4K LCD Touch |
-| Memory |  DDR4 2666MHZ |
+| Memory |  DDR4 3200MHZ/2666MHZ |
 | Storage | samsung PM961 / 970 Evo Plus |
 | GPU | Intel UHD 630 |
 | Audio | ALC 298 |
 | wireless | Killer 1650X |
+| GPU | 1650 |
 ## 工作情况
 - CPU：正常，支持变频，温度正常。
 - 核显：正常，支持HDMI 显存2048MB。
