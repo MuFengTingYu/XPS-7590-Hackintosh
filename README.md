@@ -2,6 +2,7 @@
 ## EFI及系统支持
 - OpenCore 0.7.4
 - MacOS Big Sur 11.6.1 Monterey 12.5
+- 蓝奏云 博通版 https://wwbq.lanzoub.com/iLd89012ir5e
 ## 配置信息
 | Component  | Model |
 | ------------- | ------------- |
